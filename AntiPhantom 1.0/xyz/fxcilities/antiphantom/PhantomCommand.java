@@ -2,7 +2,7 @@
 // Decompiled by Procyon v0.5.36
 // 
 
-package xyz.fxcilities.antiphantom;
+package org.canadamc.antiphantom;
 
 import org.bukkit.ChatColor;
 import org.bukkit.entity.Player;
